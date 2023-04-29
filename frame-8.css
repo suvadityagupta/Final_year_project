@@ -1,0 +1,13 @@
+.frame-child7 {
+  position: absolute;
+  top: calc(50% - 682px);
+  left: calc(50% - 1114.5px);
+  width: 2230px;
+  height: 1363px;
+  object-fit: cover;
+}
+.rectangle-root {
+  position: relative;
+  width: 100%;
+  height: 1328px;
+}
